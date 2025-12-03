@@ -8,8 +8,7 @@ This is a sample full-stack application using React for the frontend, Spring Boo
 .
 ├── .devcontainer/          # Dev Container configuration
 │   ├── devcontainer.json   # Dev Container settings
-│   ├── docker-compose.yml  # Docker Compose for services
-│   └── Dockerfile          # Development environment image
+│   └── docker-compose.yml  # Docker Compose for services
 ├── backend/                # Spring Boot backend
 │   ├── src/
 │   │   └── main/
